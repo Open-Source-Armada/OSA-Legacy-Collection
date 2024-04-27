@@ -1,7 +1,7 @@
 # OSA-Legacy-Collection
 A collection of some previous versions of prototype and old ships, not supported but still useful, hosted for sake of history. These are free real estate for anyone to take.
 
-Ghast Mk1: Smallest changed from Mk1 to Mk2, retied for clarity of versions.
+Ghast Mk1: Smallest changes from Mk1 to Mk2, retied for clarity of versions.
 
 Coleopteran Mk1: Started as a varient of the Ghast, became its own ship as of the Mk2.
 
