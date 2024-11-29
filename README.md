@@ -11,6 +11,8 @@ Migo Mk3: Retired after development of Mk5, still a solid if old micro fighter.
 
 Migo Mk4: In theme with unreleased fighters, Migo is too big and heavy, has greater power gen than Mk3 so it can shoot lasers effectivly, still a good base for a budding designer to rework.
 
+Migo Mk5: Saw limited success, was more a experiment if possible to overgun a tiny ship, and use jousting, but failed at being reliable for other forms of PvP.
+
 Yugg Mk1: A solid 4 gun fighter that unfortunatelay got made redundent not by its own new Mk2, but by the Yith Mk4 beating it in weight and firepower, Yugg Mk2 soon.
 
 Yith Mk2: Yith before the discovery of small plate meta, and before railguns came to live, is faster than the Mk3.
